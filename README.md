@@ -1,7 +1,7 @@
 # Som dos Animais
 
 <p align="center">
-Projeto desenvolvido para estudo a fim de proporcionar um site com teclas que, ao clicar, emitem sons de animais de acordo com o ícone.<br/>
+Projeto desenvolvido para estudo com intuito de proporcionar um site com teclas que, ao clicar, emitem sons de animais de acordo com o ícone.<br/>
 </p>
 
 ## 💻 Projeto
